@@ -1,0 +1,7 @@
+{
+  "name": "twitter_ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
